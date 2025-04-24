@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Vitor Lima
-- 👀 I’m interested in Javascript, mobile apps, github
-- 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://www.linkedin.com/in/vitorlimadf/
+## 👋 Hi, I’m Vitor Lima
 
-<!---
-vitorlimadf/vitorlimadf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧠 Currently working with ITIL, value streams,Service Manager and automation
+- 🤖 Exploring local LLMs, LangGraph, and personal assistant interfaces with Streamlit
+- 📨 Integrating Microsoft Graph (emails, calendar, tasks) via MSAL
+- 📊 Learning Python
+- 🎻 Occasional violinist
+- ☕ Coffee enthusiast
+
+📍 Based in Brazil  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/vitorlimadf/)
